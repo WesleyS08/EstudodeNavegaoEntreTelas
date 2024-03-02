@@ -28,3 +28,8 @@ A funcionalidade de cores aleatórias foi implementada usando o seguinte trecho 
 ```
 Esse código cria uma experiência visual dinâmica, gerando uma cor aleatória em formato RGB sempre que o botão "Aleatório" é acionado. Isso oferece uma ampla gama de possibilidades visuais, tornando a interação mais envolvente.
 
+## Resultado das telas 
+
+![Aparencia do projeto](/IMG/Tela1.png)![Aparencia do projeto](/IMG/tela1-cor.png)
+![Aparencia do projeto](/IMG/tela2.png)![Aparencia do projeto](/IMG/tela4.png)
+
