@@ -30,6 +30,7 @@ Esse código cria uma experiência visual dinâmica, gerando uma cor aleatória 
 
 ## Resultado das telas 
 
-![Aparencia do projeto](/IMG/Tela1.png)![Aparencia do projeto](/IMG/tela1-cor.png)
-![Aparencia do projeto](/IMG/tela2.png)![Aparencia do projeto](/IMG/tela4.png)
+![Aparencia do projeto](/IMG/Tela1.png)  ![Aparencia do projeto](/IMG/tela1-cor.png)
+
+![Aparencia do projeto](/IMG/tela2.png)  ![Aparencia do projeto](/IMG/tela4.png)
 
